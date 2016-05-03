@@ -6,10 +6,12 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: "I've always known I was an entrepreneur, but I didn't think it was called that. Honestly I thought there was something wrong with me. I wanted to try and do everything, but I was in a world that told me I needed to do one thing for the rest of my life. "
-datePublished: '2016-05-03T01:42:46.844Z'
-dateModified: '2016-05-03T01:42:33.118Z'
+datePublished: '2016-05-03T01:53:24.670Z'
+dateModified: '2016-05-03T01:53:24.320Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-03-entrepreneur.md
+published: true
 authors: []
 publisher:
   name: null
@@ -17,8 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: true
-sourcePath: _posts/2016-05-03-entrepreneur.md
-published: true
 _type: Blurb
 
 ---
